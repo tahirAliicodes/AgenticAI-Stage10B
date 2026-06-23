@@ -17,7 +17,6 @@ Standalone **AI security components** — modular, plug-and-play security module
 - 🔏 **Pii_redactor.py** — PII removal from AI outputs  
 - ✅ **ouput_filter.py** — response validation
 - 📋 **compliance.py** — policy compliance checker
-- 🏖️ **sandbox.py** — isolated execution
 
 ---
 
